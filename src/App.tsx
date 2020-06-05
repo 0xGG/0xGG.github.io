@@ -14,9 +14,7 @@ function MainPage() {
     <div>
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
+        <p>This is 0xGG home page</p>
         <Link to={"/page1"}>Page 1</Link>
         <Link to={"/page2?x=1&y=2"}>Page 2</Link>
       </header>
